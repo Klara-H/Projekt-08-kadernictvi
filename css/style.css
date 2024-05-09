@@ -13,3 +13,48 @@ světle šedá: #f0f0f0
 */
 
 /* --- pod tuto čáru piš svoje CSS --- */
+
+.akce-background {
+    background-color: #c5308a;
+    color: white;
+  }
+
+  .image-container {
+    text-align: center;
+  }
+  .image-container img {
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+    .image-container h3 {
+        color:#c5308a;
+    }    
+
+    .services-heading {
+        color: #c5308a;
+    } 
+
+    #reference-photo img {
+        border-radius: 50%;
+        margin-bottom: 20px;
+    } 
+    .gallery img {
+        filter: grayscale(100%);
+    } 
+    .table {
+        background-color: white;
+        border: 1px solid darkgray;
+    } 
+    #contacts h3,
+    #contacts a {
+        color: #c5308a;
+    }
+    #footer1 a {
+        color: #c5308a;
+    }
+    #footer1 {
+        font-size: 20px;
+    }
+    #footer2 a {
+        color: #c5308a;
+    }
